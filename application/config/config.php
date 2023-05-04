@@ -24,9 +24,9 @@ defined('BASEPATH') OR exit('No direct script access allowed');
 |
 */
 // $config['base_url'] = 'http://192.168.1.187:8080/cakrawala/';
-// $config['base_url'] = 'http://localhost/web_spcakrawala/';
-$config['base_url'] = 'localhost';
-// $root  = "http://".$_SERVER['HTTP_HOST'];
+// $config['base_url'] = 'http://localhost/cakrawala/';
+$config['base_url'] = 'https://spcakrawala.com';
+// $root  = "https://".$_SERVER['HTTP_HOST'];
 // $root .= str_replace(basename($_SERVER['SCRIPT_NAME']),"",$_SERVER['SCRIPT_NAME']);
 // $config['base_url'] = $root;
 
